@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492439516 source:c:\users\mahmu\desktop\cg\gl.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
+1492439516 source:c:\users\mahmu\onedrive\documents\cg lab\cg\gl.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+

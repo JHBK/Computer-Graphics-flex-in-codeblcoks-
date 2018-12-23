@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486274766 source:f:\opengl\miniproject\house.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1486274766 source:g:\study\university subject\fall 2018\computer graphics sessional\code\new folder\miniproject\house.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+

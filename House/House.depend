@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516087328 source:g:\opengl\house\house.c
+	<Windows.h>
+	<GL\glut.h>
+
+1516087328 source:g:\study\university subject\fall 2018\computer graphics sessional\code\new folder\house\house.c
+	<Windows.h>
+	<GL\glut.h>
+
